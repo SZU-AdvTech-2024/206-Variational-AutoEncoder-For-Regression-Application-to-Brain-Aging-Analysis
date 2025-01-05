@@ -1,0 +1,8 @@
+@inproceedings{REPO206,
+    author = "Zhao, Qingyu and Adeli, Ehsan and Honnorat, Nicolas and Leng, Tuo and Pohl, Kilian M",
+    booktitle = "Medical Image Computing and Computer Assisted Intervention--MICCAI 2019: 22nd International Conference, Shenzhen, China, October 13--17, 2019, Proceedings, Part II 22",
+    organization = "Springer",
+    pages = "823--831",
+    title = "{Variational autoencoder for regression: Application to brain aging analysis}",
+    year = "2019"
+}
